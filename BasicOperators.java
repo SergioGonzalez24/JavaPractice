@@ -20,7 +20,7 @@ public class BasicOperators {
     int num2=5;
     
     int sumvar=num1+num2;
-    System.out.println("Hello World")
-    
+    System.out.println(sumvar)
+
     
 }
