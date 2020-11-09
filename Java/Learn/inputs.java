@@ -1,12 +1,8 @@
 import java.util.Scanner;
 
-class Myclass {
-    public static void main(String[] args) {
-        
-        Scanner Entrada=new Scanner(System.in);
-        String a=Entrada.nextLine();
-        System.out.println(a);
-
-    }
+class MyClass {
+  public static void main(String[ ] args) {
+    Scanner myVar = new Scanner(System.in);
+    System.out.println(myVar.nextLine());        
+  }
 }
-
